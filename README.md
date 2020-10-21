@@ -9,3 +9,4 @@ A web based application to store files in encrypted format on a private cloud se
 
 **STEP 3** - Place the application files in the `\htdocs` folder of XAMPP
 
+**STEP 3** - Go to `localhost\file_name` on your web browser
